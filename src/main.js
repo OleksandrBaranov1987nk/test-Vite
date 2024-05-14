@@ -10,4 +10,4 @@
 // }
 // getPokemon().then(data => console.log(data)).catch(error => console.log('check Url!'));
 
-
+const
